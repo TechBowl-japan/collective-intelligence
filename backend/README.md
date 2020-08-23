@@ -5,10 +5,19 @@ backend - サーバサイドアプリケーション, mBaaS等
 - [ルーティング](routing.md)
 - [マイグレーション](migration.md)
 
+
+## DB
+一定の形式で作成・管理されたデータの集合の事を指す言葉。データベース(DataBase)。
+
+代表的なものにOracleによって開発されているオープンソースのリレーショナルデータベース管理システムのMySQLなどが存在する。
+
+現在はリレーショナルデータベースに限らない、NoSQLなどと言った物も存在する。
+
 ## Python
 - [公式ドキュメント(3.8.5)](https://docs.python.org/ja/)
 - インタープリタ型の高水準汎用プログラミング言語
 - 可読性の高さや近年の機械学習ブームによって流行した
+
 
 ## gRPC
 ### gRPCについて比較しながら理解してみる
@@ -67,6 +76,7 @@ errResEN := &errdetails.LocalizedMessage{
 }
 detailsErr, _ := st.WithDetails(errResJP, errResEN)
 ```
+
 
 
 ## バッチスクリプト
