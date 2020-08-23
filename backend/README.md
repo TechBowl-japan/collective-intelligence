@@ -5,6 +5,7 @@ backend - サーバサイドアプリケーション, mBaaS等
 - [ルーティング](routing.md)
 - [マイグレーション](migration.md)
 
+## gRPC
 
 
 ## バッチスクリプト
