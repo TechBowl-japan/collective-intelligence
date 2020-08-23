@@ -4,8 +4,6 @@ backend - サーバサイドアプリケーション, mBaaS等
 ### 共通
 - [ルーティング](routing.md)
 - [マイグレーション](migration.md)
-
-
 ## API
 「Application Programming Interface」の略。
 従来は、APIといえばOSがアプリケーションソフト向けに提供していた機能を指していたが、
