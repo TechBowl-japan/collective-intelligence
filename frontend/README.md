@@ -1,0 +1,18 @@
+## TypeScript
+一言で言うと、型定義できるJavaScript。
+
+そもそも「型」とは? 
+=>  データや関数の種類を区別するためのもの。
+    整数や文字列などが代表的。
+
+また、TypeScriptで記述したコードは、JavaScriptに変換して、動作するため、
+JavaScriptの命令文や配列などをそのまま利用することが可能。
+
+さらに、もし、型を最初に指定せずに記述してしまっても、自動的に型宣言されたように、
+通常通り、機能する。
+
+TypeScriptの公式ドキュメントを参照すると、
+
+ The main benefit of TypeScript is that it can highlight unexpected behavior in your code, lowering the chance of bugs.
+
+「TypeScriptの利点としては、コードの中で予期せぬ挙動を強調し、バグを減らすことができる。」
