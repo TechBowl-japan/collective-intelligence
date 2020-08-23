@@ -5,6 +5,11 @@ backend - サーバサイドアプリケーション, mBaaS等
 - [ルーティング](routing.md)
 - [マイグレーション](migration.md)
 
+## Python
+- [公式ドキュメント(3.8.5)](https://docs.python.org/ja/)
+- インタープリタ型の高水準汎用プログラミング言語
+- 可読性の高さや近年の機械学習ブームによって流行した
+
 ## gRPC
 ### gRPCについて比較しながら理解してみる
 [Data Streaming via GRPC vs MQTT vs](https://medium.com/@msmechatronics/data-streaming-via-grpc-vs-mqtt-vs-5c30dd205193)
