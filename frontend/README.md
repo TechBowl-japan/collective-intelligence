@@ -16,3 +16,15 @@ TypeScriptの公式ドキュメントを参照すると、
  The main benefit of TypeScript is that it can highlight unexpected behavior in your code, lowering the chance of bugs.
 
 「TypeScriptの利点としては、コードの中で予期せぬ挙動を強調し、バグを減らすことができる。」
+Reactとは一言で言うとUIを作るためのJavaScript用ライブラリ。
+
+開発元はFacebook。
+
+コンポーネント指向のライブラリ。
+
+React NativeというiOSとAndroidのアプリを作ることができる。
+
+JSXと呼ばれるXMLライクなマークアップを使って記述される。
+
+PWA(Webアプリをネイティブなスマホアプリのように動作させる仕組み)を実装できる。
+
