@@ -1,4 +1,4 @@
-<h2> Vue.js </h2>
+# Vue.js
 
 - Vue.js公式サイト(https://jp.vuejs.org/v2/guide/index.html)
 ※学習も可能
