@@ -20,14 +20,13 @@ MQTT, Websocket, gRPCのパフォーマンス比較
 
 ## gRPCでのエラーレスポンスについて
 ### 参考文献
+
 [gRPC status codeの一覧 - Qiita](https://qiita.com/Hiraku/items/0549e4cf7079d22b27e8)
 
 [gRPCでエラー詳細を渡す方法 - Carpe Diem](https://christina04.hatenablog.com/entry/grpc-error-details)
 
 
 ### gRPC→HTTP 対応表
-
-
 [gRPC→HTTP 対応表](https://www.notion.so/0c094f31f9254f59829b539c52a660a0)
 
 
