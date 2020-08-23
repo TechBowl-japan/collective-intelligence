@@ -5,6 +5,7 @@ backend - サーバサイドアプリケーション, mBaaS等
 - [ルーティング](routing.md)
 - [マイグレーション](migration.md)
 
+
 ## API
 「Application Programming Interface」の略。
 従来は、APIといえばOSがアプリケーションソフト向けに提供していた機能を指していたが、
@@ -17,6 +18,19 @@ backend - サーバサイドアプリケーション, mBaaS等
 - 現在残高の確認機能
 - 入金額と現在残高を合算する機能
 - 合算後の残高を表示する機能
+
+
+## DB
+一定の形式で作成・管理されたデータの集合の事を指す言葉。データベース(DataBase)。
+
+代表的なものにOracleによって開発されているオープンソースのリレーショナルデータベース管理システムのMySQLなどが存在する。
+
+現在はリレーショナルデータベースに限らない、NoSQLなどと言った物も存在する。
+
+## Python
+- [公式ドキュメント(3.8.5)](https://docs.python.org/ja/)
+- インタープリタ型の高水準汎用プログラミング言語
+- 可読性の高さや近年の機械学習ブームによって流行した
 
 
 ## gRPC
@@ -81,6 +95,7 @@ detailsErr, _ := st.WithDetails(errResJP, errResEN)
 - GoogleMapsのMap表示
 - Amazonの売れ筋や価格の表示
 - TwitterやFacebookなどのSNSの投稿記事との連携
+
 
 ## バッチスクリプト
 
