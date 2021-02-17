@@ -1,4 +1,4 @@
-railway: TechTrainの路線図
+CollectionIntelligence: TechTrainの集合知まとめ
 --- 
 # これは何？
 Techbowl社が運営するTechTrainのメンター・受講生で作るWikiのようなWeb開発・プログラミングに関連する用語集です。
